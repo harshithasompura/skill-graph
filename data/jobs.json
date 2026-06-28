@@ -1,0 +1,22 @@
+[
+  { "id": "job-001", "title": "AI Engineer", "company": "Anthropic", "role": "AI Engineer", "skills": ["Python", "TypeScript", "MCP", "LangGraph", "Claude API", "Redis", "RAG", "Vector DB"] },
+  { "id": "job-002", "title": "Applied ML Engineer", "company": "OpenAI", "role": "Applied ML Engineer", "skills": ["Python", "PyTorch", "LangGraph", "RAG", "OpenAI API", "FastAPI", "PostgreSQL"] },
+  { "id": "job-003", "title": "LLM Engineer", "company": "Mistral AI", "role": "LLM Engineer", "skills": ["Python", "PyTorch", "Fine-tuning", "RLHF", "Transformers", "HuggingFace", "CUDA"] },
+  { "id": "job-004", "title": "AI Product Engineer", "company": "Cursor", "role": "AI Product Engineer", "skills": ["TypeScript", "React", "OpenAI API", "Claude API", "MCP", "Redis", "PostgreSQL"] },
+  { "id": "job-005", "title": "AI Engineer", "company": "Perplexity", "role": "AI Engineer", "skills": ["Python", "RAG", "Vector DB", "FastAPI", "Redis", "LangChain", "OpenAI API"] },
+  { "id": "job-006", "title": "ML Infrastructure Engineer", "company": "Scale AI", "role": "ML Infrastructure Engineer", "skills": ["Python", "Kubernetes", "Docker", "PyTorch", "CUDA", "FastAPI", "PostgreSQL"] },
+  { "id": "job-007", "title": "Research Engineer", "company": "Anthropic", "role": "Research Engineer", "skills": ["Python", "PyTorch", "RLHF", "Fine-tuning", "Transformers", "CUDA", "Claude API"] },
+  { "id": "job-008", "title": "LLM Engineer", "company": "Cohere", "role": "LLM Engineer", "skills": ["Python", "Transformers", "HuggingFace", "Fine-tuning", "RAG", "Vector DB", "FastAPI"] },
+  { "id": "job-009", "title": "AI Engineer", "company": "Replit", "role": "AI Engineer", "skills": ["TypeScript", "Python", "OpenAI API", "MCP", "LangGraph", "Redis", "Docker"] },
+  { "id": "job-010", "title": "Full-Stack AI Engineer", "company": "Linear", "role": "Full-Stack AI Engineer", "skills": ["TypeScript", "React", "Claude API", "MCP", "PostgreSQL", "Redis", "RAG"] },
+  { "id": "job-011", "title": "Applied ML Engineer", "company": "Databricks", "role": "Applied ML Engineer", "skills": ["Python", "PyTorch", "Spark", "MLflow", "Fine-tuning", "Transformers", "Kubernetes"] },
+  { "id": "job-012", "title": "AI Engineer", "company": "Harvey AI", "role": "AI Engineer", "skills": ["Python", "TypeScript", "LangChain", "RAG", "Vector DB", "OpenAI API", "PostgreSQL"] },
+  { "id": "job-013", "title": "LLM Engineer", "company": "Together AI", "role": "LLM Engineer", "skills": ["Python", "PyTorch", "CUDA", "Fine-tuning", "RLHF", "HuggingFace", "Docker"] },
+  { "id": "job-014", "title": "AI Product Engineer", "company": "Notion AI", "role": "AI Product Engineer", "skills": ["TypeScript", "React", "OpenAI API", "LangChain", "PostgreSQL", "Redis"] },
+  { "id": "job-015", "title": "Research Engineer", "company": "Imbue", "role": "Research Engineer", "skills": ["Python", "PyTorch", "RLHF", "Fine-tuning", "CUDA", "Transformers", "LangGraph"] },
+  { "id": "job-016", "title": "Full-Stack AI Engineer", "company": "Cursor", "role": "Full-Stack AI Engineer", "skills": ["TypeScript", "React", "Claude API", "OpenAI API", "MCP", "Redis", "PostgreSQL"] },
+  { "id": "job-017", "title": "ML Infrastructure Engineer", "company": "Anthropic", "role": "ML Infrastructure Engineer", "skills": ["Python", "Kubernetes", "Docker", "CUDA", "PyTorch", "Redis", "PostgreSQL"] },
+  { "id": "job-018", "title": "AI Engineer", "company": "Perplexity", "role": "AI Engineer", "skills": ["Python", "TypeScript", "LangGraph", "MCP", "RAG", "Vector DB", "FastAPI"] },
+  { "id": "job-019", "title": "Applied ML Engineer", "company": "OpenAI", "role": "Applied ML Engineer", "skills": ["Python", "PyTorch", "Fine-tuning", "RLHF", "OpenAI API", "Docker", "Kubernetes"] },
+  { "id": "job-020", "title": "AI Engineer", "company": "Harvey AI", "role": "AI Engineer", "skills": ["TypeScript", "Python", "Claude API", "LangGraph", "RAG", "Vector DB", "Redis"] }
+]

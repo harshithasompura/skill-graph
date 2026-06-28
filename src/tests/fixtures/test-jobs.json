@@ -1,0 +1,5 @@
+[
+  { "id": "job-001", "title": "AI Engineer", "company": "TestCo", "role": "AI Engineer", "skills": ["Python", "TypeScript", "LangGraph"] },
+  { "id": "job-002", "title": "ML Engineer", "company": "TestCo", "role": "ML Engineer", "skills": ["Python", "PyTorch", "LangGraph"] },
+  { "id": "job-003", "title": "AI Engineer", "company": "OtherCo", "role": "AI Engineer", "skills": ["TypeScript", "Redis"] }
+]

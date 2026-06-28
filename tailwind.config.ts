@@ -5,11 +5,13 @@ const config: Config = {
   theme: {
     extend: {
       colors: {
-        accent: '#2DD4BF',
-        background: '#F5F4F0',
-        foreground: '#1A1A1A',
-        muted: '#9CA3AF',
-        border: '#E5E4E0',
+        // accent-text: #0D9488 = teal-600, 4.7:1 on white = passes AA
+        accent: '#0D9488',
+        background: '#EBEBEB',
+        foreground: '#111111',
+        muted: '#666666',
+        border: '#D4D4D2',
+        surface: '#FFFFFF',
       },
       fontFamily: {
         mono: ['ui-monospace', 'SFMono-Regular', 'Menlo', 'Monaco', 'Consolas', 'monospace'],

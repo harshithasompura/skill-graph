@@ -26,12 +26,15 @@ export default function SearchBar({
   }
 
   return (
-    <input
-      type="text"
-      value={local}
-      onChange={handleChange}
-      placeholder={placeholder}
-      className="w-full bg-transparent border border-border px-3 py-2 text-sm font-mono text-foreground placeholder:text-muted focus:outline-none focus:border-accent"
-    />
+    <div className="relative">
+      <span className="absolute left-3 top-1/2 -translate-y-1/2 text-muted text-xs select-none pointer-events-none">/</span>
+      <input
+        type="text"
+        value={local}
+        onChange={handleChange}
+        placeholder={placeholder}
+        className="w-full bg-surface border border-border pl-6 pr-3 py-1.5 text-sm font-mono text-foreground placeholder:text-muted focus:outline-none focus:border-accent transition-colors duration-150"
+      />
+    </div>
   )
 }
